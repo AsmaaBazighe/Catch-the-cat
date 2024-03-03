@@ -77,3 +77,9 @@ canvas.bind("<Button-1>", cocher_case)
 fenetre.mainloop()
 
 ```
+
+## Author:
+This project was carried out by [BAZIGHE Asmaa].
+
+## Licence:
+This project is licensed under [MIT License].
