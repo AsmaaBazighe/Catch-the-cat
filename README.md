@@ -79,7 +79,7 @@ fenetre.mainloop()
 ```
 
 ## Author:
-This project was carried out by [BAZIGHE Asmaa].
+This project was carried out by [Asmaa Bazighe](https://github.com/AsmaaBazighe).
 
 ## Licence:
 This project is licensed under [MIT License].
